@@ -1,2 +1,2 @@
 # zk-snarks-exploration
-Exploration code for zk-snarks
+Code samples for [Why and How zk-SNARK works](https://arxiv.org/abs/1906.07221)
